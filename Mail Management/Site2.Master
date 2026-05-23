@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Mail_Management.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <center>
+            <h1>Mail Management</h1>
+            <hr />
+            <h2>User Panel</h2>
+            <hr />
+            <table width="100%">
+                <tr>
+                    <td><a href="page_profile.aspx">Profile</a></td>
+                    <td><a href="page_Message.aspx">Compose</a></td>
+                    <td><a href="page_Inbox.aspx">Inbox</a></td>
+                    <td><a href="page_sent.aspx">Sent</a></td>
+                    <td><a href="page_draft.aspx">Draft</a></td>
+                    <td><a href="page_imp.aspx">Important</a></td>
+                    <td><a href="page_logout.aspx">Logout</a></td>
+                </tr>
+
+            </table>
+            <hr />
+        </center>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

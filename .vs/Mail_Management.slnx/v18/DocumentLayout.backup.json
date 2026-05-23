@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prabh\\source\\repos\\Mail Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|c:\\users\\prabh\\source\\repos\\mail management\\mail management\\datacon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\datacon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_inbox.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_inbox.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_inbox.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_inbox.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|C:\\Users\\prabh\\source\\repos\\Mail Management\\mail management\\page_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBE69AD-9E5C-4B1F-9E06-D7463B3423C2}|Mail Management\\Mail_Management.csproj|solutionrelative:mail management\\page_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datacon.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\datacon.cs",
+              "RelativeDocumentMoniker": "Mail Management\\datacon.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\datacon.cs",
+              "RelativeToolTip": "Mail Management\\datacon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:52:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page_Message.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Message.aspx.cs",
+              "RelativeDocumentMoniker": "Mail Management\\page_Message.aspx.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Message.aspx.cs",
+              "RelativeToolTip": "Mail Management\\page_Message.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:43:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page_Inbox.aspx",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Inbox.aspx",
+              "RelativeDocumentMoniker": "Mail Management\\page_Inbox.aspx",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Inbox.aspx",
+              "RelativeToolTip": "Mail Management\\page_Inbox.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-06T09:36:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page_Message.aspx",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Message.aspx",
+              "RelativeDocumentMoniker": "Mail Management\\page_Message.aspx",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Message.aspx",
+              "RelativeToolTip": "Mail Management\\page_Message.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-06T09:43:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page_profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_profile.aspx.cs",
+              "RelativeDocumentMoniker": "Mail Management\\page_profile.aspx.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_profile.aspx.cs",
+              "RelativeToolTip": "Mail Management\\page_profile.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:34:04.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page_signin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_signin.aspx.cs",
+              "RelativeDocumentMoniker": "Mail Management\\page_signin.aspx.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_signin.aspx.cs",
+              "RelativeToolTip": "Mail Management\\page_signin.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA+wDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:29:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page_profile.aspx",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_profile.aspx",
+              "RelativeDocumentMoniker": "Mail Management\\page_profile.aspx",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_profile.aspx",
+              "RelativeToolTip": "Mail Management\\page_profile.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-06T09:26:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page_Inbox.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Inbox.aspx.cs",
+              "RelativeDocumentMoniker": "Mail Management\\page_Inbox.aspx.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_Inbox.aspx.cs",
+              "RelativeToolTip": "Mail Management\\page_Inbox.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:22:43.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "page_login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_login.aspx.cs",
+              "RelativeDocumentMoniker": "Mail Management\\page_login.aspx.cs",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_login.aspx.cs",
+              "RelativeToolTip": "Mail Management\\page_login.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:54:59.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "page_login.aspx",
+              "DocumentMoniker": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_login.aspx",
+              "RelativeDocumentMoniker": "Mail Management\\page_login.aspx",
+              "ToolTip": "C:\\Users\\prabh\\source\\repos\\Mail Management\\Mail Management\\page_login.aspx",
+              "RelativeToolTip": "Mail Management\\page_login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-13T11:53:56.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
